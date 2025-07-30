@@ -105,6 +105,10 @@
 	<class name="RooAnaExpNPdf" />
 	<class name="RooBWHighMassGGH" />
 	<class name="RooBWRunPdf" />
+	<class name="InvPow" />
+	<class name="InvPowLin" />
+	<class name="Expow" />
+	<class name="Dijet" />
 	<class name="RooBernsteinFast<1>" />
 	<class name="RooBernsteinFast<2>" />
 	<class name="RooBernsteinFast<3>" />
