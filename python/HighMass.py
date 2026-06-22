@@ -28,7 +28,7 @@ class HighMassModel(PhysicsModelBase):
         if not self.DC.isSignal[process]:
             if process == "sbi_mass":
                 return "scale_SBI"
-            elif process == "ggbox_mass"
+            elif process == "ggbox_mass":
                 return "scale_B"
             return 1
         return "scale_S"
